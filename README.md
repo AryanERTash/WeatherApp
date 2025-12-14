@@ -31,5 +31,5 @@ It fetches real-time weather data using the **OpenWeatherMap API**.
 
 ---
 
-
+You should make a VITE_APP_ID in .env file and put your OpenWeatherMap API key there.
 
